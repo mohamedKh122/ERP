@@ -1,0 +1,1 @@
+import{Hb as i,Sa as e,rb as n,sb as s}from"./chunk-DCIY6CH7.js";var a=class t{static \u0275fac=function(o){return new(o||t)};static \u0275cmp=e({type:t,selectors:[["app-not-found"]],decls:2,vars:0,template:function(o,d){o&1&&(n(0,"p"),i(1,"not-found works!"),s())},encapsulation:2})};export{a as NotFound};
